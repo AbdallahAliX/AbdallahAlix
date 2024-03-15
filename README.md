@@ -14,7 +14,7 @@
 <h3 align="left">Work with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdallah-ali-8a6320184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdallah-ali-8a6320184" height="30" width="40" /></a>
-<a href="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg" target="blank"><img align="center" src="https://www.svgrepo.com/show/331630/upwork.svg" alt="Upwork Profile" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/~0176f1a66c7629bfe4" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg" alt="Upwork Profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

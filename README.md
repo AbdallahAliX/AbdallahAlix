@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
-- I’m currently working as a freelancer with **Retool**, **React.js**
+- I’m currently working as a Software Engineer @Stackdrop
 
 - 🌱 I’m currently learning **Next.js**, **Typescript**
 
